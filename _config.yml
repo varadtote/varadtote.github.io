@@ -1,30 +1,27 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Varad Tote
+description: Portfolio and Blog for Varad
+taglong: Fullstack MERN Developer
+tagshort: Varad's site
+url: https://varadtote.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/varadtote/varadtote.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Varad Tote
+  email: varadtote1412@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  github: https://github.com/varadtote
+  linkedin: https://www.linkedin.com/in/varad-tote-206789167/
+  twitter: https://twitter.com/ToteVarad
 
 # build settings
 
